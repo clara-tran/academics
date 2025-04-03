@@ -7,7 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Projects"
-    url: /projects/
+    sublinks:
+      - title: "Syntax"
+        url: /syntax/
+      - title: "Semantics"
+        url: /semantics/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
