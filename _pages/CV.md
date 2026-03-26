@@ -11,4 +11,4 @@ My CV can be downloaded [here](/assets/Tran-Clara-CV-Mar2026.pdf). Last updated:
 <embed src="{{ '/assets/Tran-Clara-CV-Mar2026.pdf' | relative_url }}"
        type="application/pdf"
        width="100%"
-       height="1000px" />
+       height="500px" />
