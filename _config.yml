@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/ExamplePhoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "a very stressed linguistics graduate student"
   location         : "Montreal, QC"
-  email            : chau.t.tran (at) mail.mcgill.ca
+  #email            : "chau.t.tran (at) mail.mcgill.ca"
   links:
     - label: "chau.t.tran (at) mail.mcgill.ca"
       icon: "fas fa-fw fa-envelope-square"
