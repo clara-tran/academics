@@ -4,14 +4,17 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "Projects"
+  - title: "Research"
     sublinks:
-      - title: "Syntax"
-        url: /syntax/
-      - title: "Semantics"
-        url: /semantics/
+      - title: "Projects"
+        url: /projects/
+      - title: "Presentations"
+        url: /presentations/
+      - title: "Works in progress"
+        url: /works-in-progress/
+  - title: "CV"
+  - title: "Teaching"
+  - title: "Contact"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
