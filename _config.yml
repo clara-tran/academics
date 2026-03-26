@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Chau (Clara) Tran"
-  avatar           : "/assets/ExamplePhoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "a very stressed linguistics graduate student"
   location         : "Montreal, QC"
   #email            : "chau.t.tran (at) mail.mcgill.ca"
