@@ -13,8 +13,11 @@ main:
       - title: "Works in progress"
         url: /works-in-progress/
   - title: "CV"
+    url: /CV/
   - title: "Teaching"
+    url: /teaching/
   - title: "Contact"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
