@@ -27,7 +27,6 @@
                                 </li>
                             {% endfor %}
                         </ul>
-                        <button id="theme-toggle" style="margin-left: 1rem;">🌙</button>
                     </li>
                 {% else %}
                     <li class="masthead__menu-item">
@@ -36,6 +35,7 @@
                 {% endif %}
             {% endfor %}
         </ul>
+        <button id="theme-toggle" style="margin-left: 1rem;">🌙</button>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
