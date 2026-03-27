@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
+<h1> Presentations </h1>
 My presentations at conferences, workshops, etc., are listed here, along with copies of the slides/handouts I used.
 
 <h2> Conference presentations </h2>
