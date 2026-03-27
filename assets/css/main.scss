@@ -19,9 +19,13 @@ search: false
 }
 .theme-toggle {
   margin-left: auto;
-  background: none;
+  background: transparent;
   border: none;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   cursor: pointer;
-  color: inherit;
+  opacity: 0.8;
+}
+
+.theme-toggle:hover {
+  opacity: 1;
 }
