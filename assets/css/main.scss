@@ -17,15 +17,21 @@ search: false
 .page__content {
   max-width: 1400px !important;
 }
-.theme-toggle {
-  margin-left: auto;
-  background: transparent;
-  border: none;
-  font-size: 1.3rem;
-  cursor: pointer;
-  opacity: 0.8;
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
 }
 
-.theme-toggle:hover {
-  opacity: 1;
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
+
+.theme-toggle {
+  margin-left: 1rem;
+  background: transparent;
+  border: none;
+  color: inherit;
+  font-size: 1.1rem;
+  cursor: pointer;
 }
