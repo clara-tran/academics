@@ -17,3 +17,11 @@ search: false
 .page__content {
   max-width: 1400px !important;
 }
+.theme-toggle {
+  margin-left: auto;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: inherit;
+}
