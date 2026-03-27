@@ -8,6 +8,43 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html.light-mode .masthead,
+html.light-mode .greedy-nav,
+html.light-mode .site-nav,
+html.light-mode .masthead__menu {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  border-color: #d0d7de !important;
+}
+
+html.light-mode .masthead a,
+html.light-mode .greedy-nav a,
+html.light-mode .site-title,
+html.light-mode .visible-links a,
+html.light-mode .greedy-nav .visible-links a {
+  color: #111111 !important;
+}
+
+html.light-mode .greedy-nav .dropdown-content,
+html.light-mode .greedy-nav .hidden-links {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  border: 1px solid #d0d7de !important;
+}
+
+html.light-mode .greedy-nav .dropdown-content a,
+html.light-mode .greedy-nav .hidden-links a {
+  color: #111111 !important;
+}
+
+html.light-mode .theme-switch__track {
+  background: #2da44e !important;
+}
+
+html.light-mode .theme-switch__thumb {
+  transform: translateX(20px);
+}
+
 :root {
   --bg: #141010;
   --text: #fff6fb;
