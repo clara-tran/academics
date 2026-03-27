@@ -2,8 +2,13 @@ const toggle = document.getElementById("theme-toggle");
 const root = document.documentElement;
 
 // Load saved theme
-if (localStorage.getItem("theme") === "light") {
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme === "light") {
   root.classList.add("light-mode");
+  toggle.textContent = "☀️";
+} else {
+  toggle.textContent = "🌙";
 }
 
 toggle.addEventListener("click", () => {
@@ -11,7 +16,9 @@ toggle.addEventListener("click", () => {
 
   if (root.classList.contains("light-mode")) {
     localStorage.setItem("theme", "light");
+    toggle.textContent = "☀️";
   } else {
     localStorage.setItem("theme", "dark");
+    toggle.textContent = "🌙";
   }
 });
