@@ -8,4 +8,4 @@ My CV can be downloaded [here]({{ '/assets/Tran-Clara-CV-Mar2026.pdf' | relative
 <embed src="{{ '/assets/Tran-Clara-CV-Mar2026.pdf' | relative_url }}"
        type="application/pdf"
        width="100%"
-       height="500px" />
+       height="400px" />
