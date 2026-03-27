@@ -3,7 +3,6 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <button id="theme-toggle" style="margin-right: 1rem;">🌙</button>
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
@@ -28,6 +27,7 @@
                                 </li>
                             {% endfor %}
                         </ul>
+                        <button id="theme-toggle" style="margin-right: 1rem;">🌙</button>
                     </li>
                 {% else %}
                     <li class="masthead__menu-item">
