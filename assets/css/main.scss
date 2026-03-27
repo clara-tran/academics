@@ -8,13 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.author__avatar,
-.author__avatar img,
-.author__content,
-.author__bio,
-.author__urls-wrapper,
-.author__urls,
-.h-card {
+---
+@import "main";
+
+.sidebar,
+.sidebar * {
   opacity: 1 !important;
   filter: none !important;
   transition: none !important;
