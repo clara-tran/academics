@@ -45,6 +45,10 @@ html.light-mode .theme-switch__thumb {
   transform: translateX(20px);
 }
 
+html.light-mode .page__title {
+  color: #ff4fa3 !important;
+}
+
 :root {
   --bg: #141010;
   --text: #fff6fb;
