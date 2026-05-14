@@ -16,8 +16,8 @@ main:
     url: /CV/
   - title: "Teaching"
     url: /teaching/
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
