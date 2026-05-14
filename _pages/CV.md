@@ -4,8 +4,8 @@ permalink: /CV/
 author_profile: true
 ---
 <h1> CV </h1>
-My CV can be downloaded [here]({{ '/assets/Tran_Clara_CV_May2026.pdf' | relative_url }}). Last updated: March 2026.
-<embed src="{{ '/assets/Tran-Clara-CV-Mar2026.pdf' | relative_url }}"
+My CV can be downloaded [here]({{ '/assets/Tran_Clara_CV_May2026.pdf' | relative_url }}). Last updated: May 2026.
+<embed src="{{ '/assets/Tran_Clara_CV_May2026.pdf' | relative_url }}"
        type="application/pdf"
        width="100%"
        height="400px" />
