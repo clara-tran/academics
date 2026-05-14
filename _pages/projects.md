@@ -7,4 +7,4 @@ author_profile: true
 
 My past and current projects are listed here.
 
-MA Research Paper -- <i> Exhaustivity without strong uniqueness: Specificational and cleft-like </i> là <i> in Vietnamese. </i> [[paper]]({{ '/assets/Tran_Clara_MA_Research_Paper.pdf' | relative_url }})
+MA Research Paper -- <i> Exhaustivity without strong uniqueness: Specificational and cleft-like </i> là <i> in Vietnamese. </i> [[paper]]({{ '/assets/Tran_Clara_MA_research_paper.pdf' | relative_url }})
