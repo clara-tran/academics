@@ -12,7 +12,7 @@ Bilinguals: Effects of Prosody </i> [manuscript in preparation]. Paper presented
 
 <h2> Class presentations </h2>
 
-LING 620 Experimental Linguistics: Methods -- Final Project Presentation -- <i> Revisiting Relative Clause Attachment by L1 Vietnamese-L2 English Bilinguals: Effects of Prosody and Proficiency. </i> [[slides in PDF]]({{ '/assets/LING6620_FinalProject_slides.pdf' | relative_url }})
+LING 620 Experimental Linguistics: Methods -- Final Project Presentation -- <i> Revisiting Relative Clause Attachment by L1 Vietnamese-L2 English Bilinguals: Effects of Prosody and Proficiency. </i> [[slides in PDF]]({{ '/assets/LING620_FinalProject_slides.pdf' | relative_url }})
 <br>
 LING 675 Syntax 4 -- Final Presentation -- <i> On the multifunctionality of </i> là. [[handout]]({{ '/assets/LING675-W25-final-project-presentation-handout.pdf' | relative_url }})
 <br>
